@@ -1,1 +1,1 @@
-# joypad
+# joystock
